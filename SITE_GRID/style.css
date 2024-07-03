@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family:"Cairo", sans-serif;
+}
+header {height: 40px;
+    background-color: lightgrey;}
+    
+    #main { display: grid;
+    grid-template-columns:1.3fr 1fr 1fr 1fr 1fr 1 .3fr ;
+    grid-template-rows:80px 80px 431px 263px;}
